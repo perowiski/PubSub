@@ -1,4 +1,4 @@
-# Pangaea HTTP Notification System
+# HTTP Notification System
 
 This project contain two module which represent the Publisher Server and the Subscriber Server.
 
